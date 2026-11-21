@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "versionName": "1.5",
+  "version": 7,
+  "versionName": "1.6",
   "url": "https://github.com/teamstreamsiptv-maker/SkynetTV/raw/main/SkynetTV.apk",
-  "notes": "Latest build, error reporting"
+  "notes": "Player gestures, PiP, auto-next episode, quality settings, reminders, backups, account switching"
 }
