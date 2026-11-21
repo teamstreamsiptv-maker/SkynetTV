@@ -1,1 +1,1 @@
-{"version": 20, "versionName": "1.19", "url": "https://github.com/teamstreamsiptv-maker/SkynetTV/raw/main/SkynetTV.apk", "notes": "Fix: crash when opening fullscreen player (cast button theming)"}
+{"version": 24, "versionName": "1.23", "url": "https://github.com/teamstreamsiptv-maker/SkynetTV/raw/main/SkynetTV.apk", "notes": "Subtle update banner with 15-minute re-checks; series episode list auto-retries on slow portal responses"}
