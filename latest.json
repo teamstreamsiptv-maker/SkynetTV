@@ -1,1 +1,1 @@
-{"version": 26, "versionName": "1.25", "url": "https://github.com/teamstreamsiptv-maker/SkynetTV/raw/main/SkynetTV.apk", "notes": "Fix: Sports tab crash during guide load; TV shows now provider-stream first"}
+{"version": 38, "versionName": "1.37", "url": "https://github.com/teamstreamsiptv-maker/SkynetTV/raw/main/SkynetTV.apk", "notes": "Fixed Keep watching and Recently watched rows overlapping the channel list"}
