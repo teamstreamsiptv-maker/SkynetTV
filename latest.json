@@ -1,1 +1,1 @@
-{"version": 24, "versionName": "1.23", "url": "https://github.com/teamstreamsiptv-maker/SkynetTV/raw/main/SkynetTV.apk", "notes": "Subtle update banner with 15-minute re-checks; series episode list auto-retries on slow portal responses"}
+{"version": 26, "versionName": "1.25", "url": "https://github.com/teamstreamsiptv-maker/SkynetTV/raw/main/SkynetTV.apk", "notes": "Fix: Sports tab crash during guide load; TV shows now provider-stream first"}
