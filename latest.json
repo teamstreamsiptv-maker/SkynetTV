@@ -1,6 +1,1 @@
-{
-  "version": 7,
-  "versionName": "1.6",
-  "url": "https://github.com/teamstreamsiptv-maker/SkynetTV/raw/main/SkynetTV.apk",
-  "notes": "Player gestures, PiP, auto-next episode, quality settings, reminders, backups, account switching"
-}
+{"version": 11, "versionName": "1.10", "url": "https://github.com/teamstreamsiptv-maker/SkynetTV/raw/main/SkynetTV.apk", "notes": "Backup portal mirror (automatic failover), Help screen, player error screen with Retry, Continue episode button, Kids mode, usage dashboard, loading spinner"}
