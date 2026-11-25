@@ -1,1 +1,1 @@
-{"id": 8, "message": "New update 1.95: torrent playback rebuilt — no more crashes while streaming, cached torrents start instantly, and stream lists respond to taps anywhere.", "route": "settings"}
+{"id": 9, "message": "New update 1.96: torrents start much faster, the player only opens when the stream is truly ready, and stuck streams fail cleanly with a clear message instead of hanging.", "route": "settings"}
